@@ -20,6 +20,9 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+### Gradle ###
+
+build/
 
 ### Maven ###
 target/
