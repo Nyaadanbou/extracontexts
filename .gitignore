@@ -23,6 +23,7 @@ fabric.properties
 ### Gradle ###
 
 build/
+.gradle/
 
 ### Maven ###
 target/
